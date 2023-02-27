@@ -1,0 +1,1 @@
+This is just the implementation of java program to copy the text from abc.txt file to xyz.txt using byte streaming
